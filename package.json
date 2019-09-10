@@ -1,0 +1,23 @@
+{
+  "name": "webbrother",
+  "version": "0.0.1",
+  "private": true,
+  "description": "webbrother",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab.manticora.org:822/aramis/webbrother.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
